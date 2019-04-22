@@ -1,5 +1,5 @@
 from Lesson5.dkzhang.my_queue import MyQueue
-from Lesson5.dkzhang.mystack import MyStack
+from Lesson5.dkzhang.my_stack import MyStack
 
 
 class MyAdvancedQueue(MyQueue):
